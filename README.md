@@ -39,5 +39,4 @@ Presentation: [here](https://github.com/NaNo211/Arcade-Machine/blob/a437bf580892
 
 # Updates :
 We are still updating the project by putting a coin acceptor and make the arcade portable so make sure to wait for the update.
-For any information contact nadaSamir@student.aast.edu or nourmorse21@gmail.com.
 
